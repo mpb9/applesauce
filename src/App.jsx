@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <>
-      <h1>Applesauce</h1>
+      <h1>applesauce</h1>
     </>
   );
 }
